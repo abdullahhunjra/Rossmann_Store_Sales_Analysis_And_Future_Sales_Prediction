@@ -142,8 +142,8 @@ Final predictions were generated using the trained Random Forest model and submi
 
 ## 🙋‍♂️ Author
 
-**Abdullah Hanjra**  
-📧 [abdullahhunjra@gmail.com](mailto:abdullahhunjra@gmail.com)  
+**Abdullah Shahzad**  
+📧 [abdullahhunjra@gmail.com](mailto:abdullahshahzadhunjra@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abdullahhunjra)  
 💻 [GitHub](https://github.com/abdullahhunjra)
 
